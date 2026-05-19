@@ -1,6 +1,8 @@
 # Mini Leave Request System
 
 This package contains a fully functional, premium Leave Request feature that can be integrated into any existing Laravel application. It features a modern user interface powered by Tailwind CSS, robust server-side validation, and advanced search/filter capabilities.
+<img width="1895" height="857" alt="Screenshot 2026-05-19 212928" src="https://github.com/user-attachments/assets/392fabec-2830-4911-8a0c-565dbc34b876" />
+
 
 ## Included Files
 
